@@ -39,3 +39,7 @@ Combines the results of LEFT JOIN and RIGHT JOIN.
 Returns all rows from both tables, with NULLs in places where a match doesn’t exist.
 
 Example: A full join of customers and orders will list every customer and every order, pairing them where possible.
+
+OUTPUT
+
+<img width="1530" height="890" alt="Image" src="https://github.com/user-attachments/assets/02814910-25b6-46f3-b12c-baf6f3ca0af4" />
